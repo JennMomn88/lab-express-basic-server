@@ -2,9 +2,6 @@
 // Here you should import the required packages for your Express app: `express` and `morgan`
 const express = require('express');
 const morgan = require('morgan');
-const path = require('path');
-const projectsData = require('./data/projects.json');
-const articlesData = require('./data/articles.json');
 
 // CREATE EXPRESS APP
 // Here you should create your Express app:
